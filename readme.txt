@@ -8,3 +8,6 @@ I scaled everything into SMD to make it as small as possible, removed the MAX232
 
 3x05Ball.zip is the original TNC firmware, on which the wb8wga one is based, it should be compatible and make this board work as a standard APRS TNC.
 I upload it here as is a bit hard to find, but I claim no ownership over it.
+
+Disclaimer: 
+This is my first EAGLE circuit, so be gentle with me xD
