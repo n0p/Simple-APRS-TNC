@@ -1,9 +1,9 @@
 EAGLE AutoRouter Statistics:
 
-Job           : C:/Users/n0p/Desktop/TNC/InexpensiveTNC-v4-mod.brd
+Job           : C:/Users/n0p/Documents/Devel/Github/SimpleTNC/InexpensiveTNC-v4-mod.brd
 
-Start at      : 19:19:15 (28/08/2013)
-End at        : 19:19:15 (28/08/2013)
+Start at      : 21:50:49 (29/08/2013)
+End at        : 21:50:49 (29/08/2013)
 Elapsed time  : 00:00:00
 
 Signals       :    28   RoutingGrid: 50 mil  Layers: 2
