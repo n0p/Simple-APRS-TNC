@@ -1,5 +1,9 @@
 Simple inexpensive APRS TNC/beacon based on wb8wga's one
 
+Update: It works! :D
+http://imgur.com/mMHwAuk
+http://imgur.com/1EDHPSL
+
 Original work I adapted: http://www.enide.net/webcms/index.php?page=wb8wga-tnc
 
 This device works as a stand alone configurable APRS beacon/digipeater and also as a serial to APRS terminal. Go to wb8wga's website to find more about it.
